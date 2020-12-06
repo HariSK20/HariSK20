@@ -8,4 +8,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me:
     - :office: [LinkedIn](https://www.linkedin.com/in/harishankar-s-kumar-780ba31b5)
     
-[![My github stats](https://github-readme-stats.vercel.app/api?username=HariSK20&count_private=true&show_icons=true&theme=synthwave&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
+[![My github stats](https://github-readme-stats.vercel.app/api?username=HariSK20&count_private=false&show_icons=true&theme=tokyonight&hide_rank=true)]
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HariSK20&layout=compact)]
+
+
+
+The Stats card are made using the resource here(https://github.com/anuraghazra/github-readme-stats)
