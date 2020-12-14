@@ -1,7 +1,5 @@
 ### Hello there 👋
 
-Here are some ideas to get you started:
-
 - 🔭 I Love Science, Math and programming
 - :zap: I learn every day
 - 🌱 I’m currently doing my Bachelors in Computer Science at College of Engineering Trivandrum
