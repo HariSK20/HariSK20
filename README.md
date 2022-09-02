@@ -4,10 +4,11 @@
 - I’m currently doing my Bachelors in Computer Science at College of Engineering Trivandrum
 - How to reach me:
     - [LinkedIn](https://www.linkedin.com/in/harishankar-s-kumar-780ba31b5)
+    - [Portfolio](https://harisk20.github.io)
     
-![My github stats](https://github-readme-stats.vercel.app/api?username=HariSK20&count_private=false&show_icons=true&theme=tokyonight&hide_rank=true)
+![My github stats](https://github-readme-stats.vercel.app/api?username=HariSK20&count_private=false&show_icons=true&theme=city_lights&hide_rank=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HariSK20&layout=compact&theme=react-dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HariSK20&theme=city_lights&layout=compact)
 
 
 
