@@ -5,11 +5,17 @@
 - How to reach me:
     - [LinkedIn](https://www.linkedin.com/in/harishankar-s-kumar-780ba31b5)
     - [Portfolio](https://harisk20.github.io)
-    
+ 
+<!--
 ![My github stats](https://github-readme-stats.vercel.app/api?username=HariSK20&count_private=false&show_icons=true&theme=city_lights&hide_rank=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HariSK20&theme=city_lights&layout=compact)
+-->
 
+<div align=center>
+<img src="https://github-readme-stats.vercel.app/api?username=HariSK20&count_private=false&show_icons=true&theme=city_lights&hide_rank=true&hide_border=true&bg_color=0d1117">
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HariSK20&theme=city_lights&layout=compact&hide_border=true&bg_color=0d1117" height="195">
+</div> <br>
 
 The awesome Stats card are made using the resource [here](https://github.com/anuraghazra/github-readme-stats)
